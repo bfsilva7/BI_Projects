@@ -14,7 +14,7 @@ Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI.
 
 ## ✉️ Email para contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Brenno.fsilva7@gmail.com)
-Brenno.fsilva7@gmail.com
+> Brenno.fsilva7@gmail.com
 
 ## 📞 WhatsApp
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+912435121)
