@@ -17,7 +17,7 @@ Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI.
 > Brenno.fsilva7@gmail.com
 
 ## 📞 WhatsApp
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+912435121)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511912435121)
 
 ## ⚙️ Ferramentas e Linguagens
 ![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=SQL&logoColor=ffdd54)
