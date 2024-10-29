@@ -5,8 +5,8 @@ Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI.
 
 |Dashboards| Links |
 |----------| ------ |
-|Dashboard Vendas| [link Vendas]() |
-|Dashboard Serviços| [link Servicos]() |
+|Dashboard Vendas|
+|Dashboard Serviços|
 
 
 ## 💻 Linkedin para mais informações
