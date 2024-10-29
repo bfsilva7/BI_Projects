@@ -3,8 +3,8 @@
 Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI.
 
 
-|Dashboards| Links |
-|----------| ------ |
+|Dashboards|
+|----------|
 |Dashboard Vendas|
 |Dashboard Serviços|
 
