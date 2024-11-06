@@ -7,7 +7,7 @@ Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI.
 |----------|
 |Dashboard Vendas|
 |![Foto do Dashboard](https://github.com/bfsilva7/BI_Projects/blob/main/Dash_vendas.png?raw=true)|
-
+||
 |Dashboard Serviços|
 |![Foto do Dashboard](https://github.com/bfsilva7/BI_Projects/blob/main/Dash_serv1.png)|
 
