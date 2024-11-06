@@ -6,6 +6,7 @@ Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI.
 |Dashboards|
 |----------|
 |Dashboard Vendas|
+|![Texto Alternativo](URL_da_Imagem)|
 |Dashboard Serviços|
 
 
