@@ -1,6 +1,6 @@
 # DASHBOARDS | BI
 
-Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI.
+Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI, dados tratados por SQL ou EXCEL.
 
 
 |Dashboards|
