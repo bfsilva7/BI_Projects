@@ -6,8 +6,9 @@ Repositórios dos meus trabalhos com desenvolvimento de dashboards com Power BI,
 |Dashboards|
 |----------|
 |Dashboard Vendas|
+|De vendas, tendo 4 gráficos em barras podendo escolher entre vendas por vendedor, midia, estado e cidade. Além de uma página focado em filtros|
 |![Foto do Dashboard](https://github.com/bfsilva7/BI_Projects/blob/main/Dash_vendas.png?raw=true)|
-||
+|De serviços, usado para entender as ocorrências/chamado, tem mais duas paginas sendo uma para datalhar as ocorrências e outra com filtros|
 |Dashboard Serviços|
 |![Foto do Dashboard](https://github.com/bfsilva7/BI_Projects/blob/main/Dash_serv1.png)|
 
